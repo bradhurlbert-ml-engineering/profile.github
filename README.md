@@ -42,7 +42,7 @@ Rather than just architect systems that use AI, I'm building the capability to d
 ## 🧠 What I Bring to ML/AI
 
 **Business & Organizational Expertise:**
-- 13 years working with C-suite executives on transformation initiatives
+- 13 years working with Senior executives on transformation initiatives
 - Understand how to translate business requirements into technical solutions
 - P&L ownership and ROI thinking (VC-backed business experience)
 - Change management and organizational adoption
